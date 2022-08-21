@@ -10,7 +10,8 @@
 
 * Atualmente estou aprendendo:
 
-    * HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    * HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+          
     * CSS
     * JavaScript
     * Git
