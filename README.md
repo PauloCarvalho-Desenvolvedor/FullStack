@@ -10,7 +10,7 @@
 
 * Atualmente estou aprendendo:
 
-    * ![HTML](https://br.freepik.com/icones-gratis/whatsapp_15334479.htm#query=whatsapp&position=7&from_view=search)
+    * ![HTML]()
           
     * CSS
     * JavaScript
@@ -19,7 +19,10 @@
           
 * Como entrar em contato comigo: 
     <p>
-    *  <a href="https://api.whatsapp.com/send?phone=5521999022950&text=Ol%C3%A1%2C%20tudo%20bem!%20Em%20breve%20responderei%20a%20sua%20mensagem."  target="_blank"> ![Whatsapp] (C:\Users\paulo\OneDrive\Área de Trabalho\ebac-fullstackpython\FullStack\imagens\whatsapp.png)</a>
+    
+    
+
+    *  <a href="https://api.whatsapp.com/send?phone=5521999022950&text=Ol%C3%A1%2C%20tudo%20bem!%20Em%20breve%20responderei%20a%20sua%20mensagem."  target="_blank"> </a>
     </p>
 
 * Curiosidade:
