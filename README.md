@@ -10,7 +10,7 @@
 
 * Atualmente estou aprendendo:
 
-    * ![alt HTML] (img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg")
+    * ![alt HTML](https://br.freepik.com/icones-gratis/whatsapp_15334479.htm#query=whatsapp&position=7&from_view=search)
           
     * CSS
     * JavaScript
