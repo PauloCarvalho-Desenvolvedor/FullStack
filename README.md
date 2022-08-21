@@ -22,7 +22,7 @@
 
     * <a href="https://api.whatsapp.com/send?phone=5521999022950&text=Ol%C3%A1%2C%20tudo%20bem!%20Em%20breve%20responderei%20a%20sua%20mensagem." target="_blank" > Whatsapp </a>
 
-    * <a href="<a href="mailto:info@example.com?&subject=&cc=&bcc=&body=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox%0AEm%20breve%20responderei%20seu%20email.">Compartilhar</a>" target="_blank">Gmail</a>
+    * <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox%0AEm%20breve%20responderei%20seu%20email." target="_blank">Gmail</a>" 
     
 
 * Curiosidade:
