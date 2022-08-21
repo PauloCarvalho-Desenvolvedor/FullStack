@@ -2,8 +2,8 @@
 
 ## Estudante de FullStack da EBAC
 
-<p>
-    ### Seja Bem-Vindo ao meu perfil GitHub 👋
+
+### Seja Bem-Vindo ao meu perfil GitHub 👋
 
 
 * Atualmente estou trabalhando na <a href="Confiancemedical.com.br">Confiance Medical</a>
@@ -21,4 +21,3 @@
     * Sou técnico em Eletrônica
     * Toco guitarra e violão
     * Também sou comunicativo, extrovertido e responsável. 
-</p>
