@@ -9,14 +9,15 @@
 * Atualmente estou trabalhando na <a href="Confiancemedical.com.br">Confiance Medical</a>
 
 * Atualmente estou aprendendo:
-    * <img src="C:\Users\paulo\OneDrive\Área de Trabalho\ebac-fullstackpython\FullStack\imagens\whatsapp.png" />
+    * ![CSS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg"/>
+          )
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
           
 * Como entrar em contato comigo: 
-    <a href='https://api.whatsapp.com/send?phone=5521999022950&text=Ol%C3%A1%2C%20tudo%20bem!%20Em%20breve%20responderei%20a%20sua%20mensagem.'>Paulo Carvalho</a>
+    <a href='https://api.whatsapp.com/send?phone=5521999022950&text=Ol%C3%A1%2C%20tudo%20bem!%20Em%20breve%20responderei%20a%20sua%20mensagem.'>Paulo Carvalho<img src="C:\Users\paulo\OneDrive\Área de Trabalho\ebac-fullstackpython\FullStack\imagens\whatsapp.png" /></a>
 
 
 * Curiosidade:
