@@ -12,7 +12,7 @@
 * Atualmente estou trabalhando na <a href="Confiancemedical.com.br">Confiance Medical</a>
 
 * Atualmente estou aprendendo:
-    * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+    * <url src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
