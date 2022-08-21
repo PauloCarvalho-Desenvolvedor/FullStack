@@ -24,6 +24,7 @@
 
     * <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox%0AEm%20breve%20responderei%20seu%20email." target="_blank">Gmail</a>
     
+    * <a href="https://www.linkedin.com/in/paulo-carvalho-71968b201/" target="_blank">Linkedin</a>
 
 * Curiosidade:
 
