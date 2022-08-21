@@ -5,7 +5,7 @@
 
 ### Seja Bem-Vindo ao meu perfil GitHub 👋
 
-<p style=background-color: rgba(55, 100, 50, .2)>
+<p style="background-color: rgba(55, 100, 50, .2)";>
 * Atualmente estou trabalhando na <a href="http://Confiancemedical.com.br" target="_blank">Confiance Medical</a>
 
 * Atualmente estou aprendendo:
