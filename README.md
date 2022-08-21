@@ -10,8 +10,7 @@
 
 * Atualmente estou aprendendo:
 
-    * ![HTML]()
-          
+    * HTML          
     * CSS
     * JavaScript
     * Git
