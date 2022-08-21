@@ -8,7 +8,7 @@
 
 * Atualmente estou trabalhando na <a href="http://Confiancemedical.com.br" target="_blank">Confiance Medical</a>
 
-* Atualmente estou aprendendo:
+* Atualmente estou estudando:
 
     * HTML          
     * CSS
